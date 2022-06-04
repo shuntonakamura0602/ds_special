@@ -1,4 +1,5 @@
-#name ds_special
+#ds_special
+
 ## this is mlb statistic tools 
 
 ## Usage
